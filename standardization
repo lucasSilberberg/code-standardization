@@ -1,0 +1,25 @@
+// datos Constantes
+  @gloables const _CONSTANE_
+  @gloables compuesta const _CONSTANTE_COMPUESTA_  
+  @locales  const _CONSTANTE_COMPUESTA
+  @locales compuesta const _CONSTANTE_COMPUESTA
+
+// datos variables
+  @gloables let _variable
+  @gloables compuesta let _vaiable_compuesta 
+  @locales  let _variable
+  @locales let compuesta _variable_compuesta
+
+
+//clase css
+.clase
+.clase-compuesta
+
+
+/*
+// Explicación de función ( ejemplo )
+  @variable1 = recibe número del 1 al 10
+  @variable2 = recibe segundo número para restar
+  @return = explicación de salida
+*/
+
